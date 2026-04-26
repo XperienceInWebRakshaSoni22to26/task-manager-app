@@ -4,8 +4,8 @@ A clean full-stack Task Manager built with React (frontend) and Node.js + Expres
 
 ## Live Links
 
-- Frontend (Vercel): `add-your-frontend-link-here`
-- Backend (Render): `add-your-backend-link-here`
+- Frontend (Vercel): https://task-manager-app-nine-taupe.vercel.app/
+- Backend (Render): https://task-manager-app-uznu.onrender.com
 
 ## Repository
 
